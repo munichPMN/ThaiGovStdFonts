@@ -10,7 +10,7 @@
 
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@latest/css/thai-government-fonts.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/munichPMN/ThaiNationalFonts@latest/css/thai-government-fonts.min.css">
 ```
 2.  ใช้ CSS class ของฟอนต์ตามต้องการ ตัวอย่างเช่น
 ```
