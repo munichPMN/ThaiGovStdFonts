@@ -1,7 +1,39 @@
 /***********************************************************/
 /* Thai Government Standard Fonts - Hosted on jsdelivr CDN */
 /***********************************************************/
+/**
+TH Baijam,
+TH Chakra Petch,
+TH Charm of AU,
+TH Charmonman,
+TH Fahkwang,
+TH K2D July8,
+TH Kodchasal,
+TH KoHo,
+TH Krub,
+TH Mali Grade6,
+TH Niramit AS,
+TH Sarabun,
+TH SarabunNew,
+TH Srisakdi
 
+****************
+
+TH_Baijam,
+TH_Chakra_Petch,
+TH_Charm_of_AU,
+TH_Charmonman,
+TH_Fahkwang,
+TH_K2D_July8,
+TH_Kodchasal,
+TH_KoHo,
+TH_Krub,
+TH_Mali_Grade6,
+TH_Niramit_AS,
+TH_Sarabun,
+TH_SarabunNew,
+TH_Srisakdi
+**/
 
 /** --------- FONT NAME: TH Baijam --------- **/
 
@@ -34,7 +66,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -70,7 +102,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -138,7 +170,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -174,7 +206,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -210,7 +242,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -246,7 +278,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -282,7 +314,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -318,7 +350,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -354,7 +386,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -390,7 +422,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-Bold-Italic.woff2') format('woff2');
 }
 
 
@@ -426,7 +458,7 @@
     font-style: italic;
     font-weight: bold;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-BoldItalic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-Bold-Italic.woff2') format('woff2');
 }
 
 
