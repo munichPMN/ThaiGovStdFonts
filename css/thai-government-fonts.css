@@ -1,0 +1,450 @@
+/***********************************************************/
+/* Thai Government Standard Fonts - Hosted on jsdelivr CDN */
+/***********************************************************/
+
+
+/** --------- FONT NAME: TH Baijam --------- **/
+
+@font-face {
+    font-family: 'TH Baijam';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Baijam';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Baijam';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Baijam';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Baijam-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Chakra Petch --------- **/
+
+@font-face {
+    font-family: 'TH Chakra Petch';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Chakra Petch';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Chakra Petch';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Chakra Petch';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Chakra_Petch-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Charm of AU --------- **/
+
+@font-face {
+    font-family: 'TH Charm of AU';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Charm_of_AU-Regular.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Charmonman --------- **/
+
+@font-face {
+    font-family: 'TH Charmonman';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Charmonman-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Charmonman';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Charmonman-Bold.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Fahkwang --------- **/
+
+@font-face {
+    font-family: 'TH Fahkwang';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Fahkwang';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Fahkwang';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Fahkwang';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Fahkwang-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH K2D July8 --------- **/
+
+@font-face {
+    font-family: 'TH K2D July8';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH K2D July8';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH K2D July8';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH K2D July8';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_K2D_July8-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Kodchasal --------- **/
+
+@font-face {
+    font-family: 'TH Kodchasal';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Kodchasal';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Kodchasal';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Kodchasal';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Kodchasal-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH KoHo --------- **/
+
+@font-face {
+    font-family: 'TH KoHo';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH KoHo';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH KoHo';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH KoHo';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_KoHo-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Krub --------- **/
+
+@font-face {
+    font-family: 'TH Krub';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Krub';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Krub';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Krub';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Krub-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Mali Grade6 --------- **/
+
+@font-face {
+    font-family: 'TH Mali Grade6';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Mali Grade6';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Mali Grade6';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Mali Grade6';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Mali_Grade6-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Niramit AS --------- **/
+
+@font-face {
+    font-family: 'TH Niramit AS';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Niramit AS';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Niramit AS';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Niramit AS';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Niramit_AS-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Sarabun --------- **/
+
+@font-face {
+    font-family: 'TH Sarabun';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Sarabun';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Sarabun';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Sarabun';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Sarabun-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH SarabunNew --------- **/
+
+@font-face {
+    font-family: 'TH SarabunNew';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH SarabunNew';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH SarabunNew';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH SarabunNew';
+    font-style: italic;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_SarabunNew-BoldItalic.woff2') format('woff2');
+}
+
+
+
+/** --------- FONT NAME: TH Srisakdi --------- **/
+
+@font-face {
+    font-family: 'TH Srisakdi';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Srisakdi-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TH Srisakdi';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/munichPMN/ThaiGovStdFonts@master/font/woff2/TH_Srisakdi-Bold.woff2') format('woff2');
+}
